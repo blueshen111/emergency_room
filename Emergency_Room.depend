@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1570344094 source:/Users/jordansteer/Desktop/Code_Practice/Emergency_Room/Hospital.cpp
+	"Hospital.h"
+	"Patient.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	<iterator>
+
+1570332586 /Users/jordansteer/Desktop/Code_Practice/Emergency_Room/Hospital.h
+	"Patient.h"
+	<iostream>
+	<vector>
+
+1570338551 /Users/jordansteer/Desktop/Code_Practice/Emergency_Room/Patient.h
+	<iostream>
+
+1570344709 source:/Users/jordansteer/Desktop/Code_Practice/Emergency_Room/main.cpp
+	<iostream>
+	"Patient.h"
+	"Hospital.h"
+	<vector>
+
+1570344855 source:/Users/jordansteer/Desktop/Code_Practice/Emergency_Room/Patient.cpp
+	"Patient.h"
+
